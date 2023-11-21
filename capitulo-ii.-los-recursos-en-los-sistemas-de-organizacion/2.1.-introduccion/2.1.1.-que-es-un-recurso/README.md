@@ -1,0 +1,15 @@
+---
+description: Los recursos son aquello que organizamos
+---
+
+# 2.1.1. ¿Qué es un recurso?
+
+En el primer capítulo introdujimos el concepto de recurso (§1.3 El concepto de “Recurso”) en su sentido más común: “cualquier cosa de valor que pueda apoyar una actividad orientada a un objetivo”, y resaltamos que un grupo de recursos puede tratarse como una colección en un Sistema de Organización. Y, ¿qué queremos decir realmente con “cualquier cosa de valor”? A priori, puede parecer que la cuestión de la identidad, de aquello que define a un recurso en concreto, no es difícil de responder. Después de todo, vivimos en un mundo lleno de recursos y encontrar, seleccionar, describir, organizar y referirse a ellos son actividades cotidianas. Y, aunque los recursos humanos no son el foco principal de este libro, estaríamos cometiendo una omisión si no explicamos por qué tiene sentido entender también a las personas como recursos. (Véase la barra lateral titulada “Las personas como recurso”).
+
+Sin embargo, incluso cuando los recursos con los que tratamos son tangibles, la forma en que los organizamos no siempre es obvia o, al menos, no lo es en la misma medida y en el mismo momento para todos nosotros. No todos pensamos en ellos de la misma manera. El primer paso para poder organizar un recurso, así como otros similares, es reconocerlo, en el sentido de percibirlo como algo tangible. Aquellas de sus propiedades que atraen nuestra atención y que utilizamos para organizarlos dependen de nuestras experiencias, nuestros propósitos y nuestro contexto.
+
+**Cuando nombramos o describimos un recurso, estamos añadiéndole información más allá de su propia entidad, y haciéndolo algo más que ese “algo” que era antes.** Podemos describir el mismo recurso de muchas maneras diferentes. Con frecuencia podemos considerar que un recurso determinado es uno de los muchos componentes de una categoría amplia o uno de los pocos componentes de una categoría reducida, o un ejemplar único de una categoría compuesta por él exclusivamente. Por ejemplo, podemos reconocer algo como un artículo de ropa, como un calcetín o como ese calcetín sucio con el agujero en el talón que usamos en la larga caminata de ayer. Sin embargo, incluso después de categorizar algo, podríamos no ser tan rigurosos al hablar de ello; a menudo nos referimos a dos objetos como “la misma cosa” cuando lo que queremos decir es que son “el mismo tipo de cosa”. De hecho, podríamos debatir sobre si una categoría con un solo componente es realmente una categoría, porque difumina una importante distinción entre determinados artículos o ejemplares y la clase o tipo a la que pertenecen.
+
+Las cuestiones que importan y las decisiones que debemos tomar sobre los ejemplares, las clases y los tipos de recursos no son completamente estancas. No obstante, intentaremos centrarnos en este capítulo en los recursos concretos(los ejemplares) dejando fuera lo relativo a [clases y tipos.](#user-content-fn-1)[^1]
+
+[^1]: Puede consultarse capítulo 7 “Categorización: Describir clases y tipos de recursos”, en la edición online completa en inglés del libro “TDO core concepts edition”.
